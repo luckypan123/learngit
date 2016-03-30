@@ -1,0 +1,66 @@
+ body{
+       background-color:#008080;
+
+  }
+  *{
+    padding:0;
+    margin:0;
+  }
+  img{
+  	max-width:100%;
+  	max-height:100%
+  }
+  div {
+    text-align: center;
+    margin: 0;
+  }
+  h1,a{
+    color: blue;
+  }
+  a {
+    text-decoration: none;
+  }
+  td {
+    width: 100px;
+
+  }
+  div.head {
+    height: 280px;
+    width: 100%;
+    background-color:#84513C
+  }
+  div.master{
+    margin: 0 80px 0 80px;
+	background-color:#FFFFFF
+  }
+  div.seeall{
+  	margin-top:-20px;
+  }	
+  div.picture1{
+  	float:left;
+	height:450px;
+	width:30%;
+  }
+  div.picture2{
+  	float:left;
+	width:70%;
+	
+  }
+  div.car1{
+  	float:left;
+	height:82px;
+	margin-left:1px;
+	margin-right:1px;
+	width:33%;
+       overflow: hidden
+  }
+  div.para{
+  	height:200px;
+	text-align:center;
+  }
+  .table{
+    margin:auto; /*外边距自动居中*/
+  }
+  p.head {
+    font-size: 50px
+  }

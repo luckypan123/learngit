@@ -1,4 +1,3 @@
-#$LOAD_PATH << File.join('home', 'luckypan', 'work')
 $LOAD_PATH << File.join("/home/luckypan/work")
 require "box"
 
@@ -20,3 +19,8 @@ y = box.printHeight()
 
 puts "Width of the box is : #{x}"
 puts "Height of the box is : #{y}"
+
+
+i=["as","da","das","f"]
+puts i.sample
+

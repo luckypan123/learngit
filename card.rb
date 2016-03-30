@@ -49,3 +49,6 @@ d.shuffle
 d.display
 puts "----\n"
 d.deal
+
+
+
